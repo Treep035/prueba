@@ -9,7 +9,7 @@ public class ParametresDeSortida {
 		ParametresDeSortida programa = new ParametresDeSortida();
 		programa.inici();
 	}
-	// aa
+	
 	public void inici() {
 		int mida = mesura();
 		int[] nums = vector(mida);
